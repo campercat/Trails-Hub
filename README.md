@@ -1,10 +1,10 @@
-# Trails Hub
+# Trails Hub #
 Trails Hub is the premier hiking trail review site for "outdoor enthusiasts".  
 
-## Heroku Deployment
+## Heroku Deployment ##
 https://trails-hub.herokuapp.com/trails
 
-##List of Features
+## List of Features ##
 * Index page to view all trails
 * Filter trails by name, difficulty, and distance
 * Show pages for each trail to see details
@@ -13,7 +13,7 @@ https://trails-hub.herokuapp.com/trails
 * Trails get an average rating based on reviews
 
 
-##List of Technologies
+## List of Technologies ##
   * React
   * SpringBoot
   * postgreSQL
@@ -21,7 +21,7 @@ https://trails-hub.herokuapp.com/trails
   * CSS
   * Heroku deployment
 
-## Founders
+## Founders ##
 * Suey Chen
 * Michael Stafford
 * Ben Lazan
